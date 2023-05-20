@@ -25,7 +25,7 @@ class MikanFunc {
 class MikanUrl {
   const MikanUrl._();
 
-  static const String baseUrl = "https://mikanani.me";
+  static const String baseUrl = "https://mikanime.tv";
 
   /// [最近更新](https://mikanani.me/Home/EpisodeUpdateRows?predate=0&enddate=1&maximumitems=6)
   static const String dayUpdate = "/Home/EpisodeUpdateRows";
